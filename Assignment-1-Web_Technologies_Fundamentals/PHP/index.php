@@ -15,7 +15,7 @@
   <li><a href="Get.php?name=John">GET</a></li>
   <li><a href="Post.php">POST</a></li>
   <li><a href="Functions.php">Functions</a></li>
-  <li><a href="array_loop.php">Array Loop</a></li>
+  <li><a href="array.php">Array Loop</a></li>
   <li><a href="session.php">Session</a></li>
   <li><a href="file.php">File Handling</a></li>
 </ul>
