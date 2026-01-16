@@ -16,4 +16,9 @@ HTML/PHP basics, Web application architecture, client-server interaction
 - Modify GET/POST parameters in real time 
 - Observe cookies and session tokens
 - Analyze HTTP headers (User-Agent, Content-Type, etc)
+## Source code analysis
+- View page source on 10 different websites
+- Find hidden fields, comments, and sensitve information
+- Identify web technologies using Wappalyzer
+- Extract form actions and input validation
 
