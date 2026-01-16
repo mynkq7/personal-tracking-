@@ -11,4 +11,9 @@ HTML/PHP basics, Web application architecture, client-server interaction
 - Build simple login form with PHP backend
 - Practise $Get and $Post variable handling 
 - Connect PHP to mysql database 
+## 3. Understand Web request/response
+- Use Burpsuite to intercept HTTP requests
+- Modify GET/POST parameters in real time 
+- Observe cookies and session tokens
+- Analyze HTTP headers (User-Agent, Content-Type, etc)
 
